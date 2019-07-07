@@ -21,7 +21,7 @@ title: Posts
     {{ site.author }}
     {% endif %}
     on
-    {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+    {{ post.date | date: '%B %d, %Y' }}           
   </p>
 </article>
 
