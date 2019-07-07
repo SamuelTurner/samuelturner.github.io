@@ -1,32 +1,6 @@
 ---
-layout: splash
-excerpt: Howdo, I’m Samuel Turner. I’m a software tester and tech enthusiast from Derbyshire/Manchester but currently living and working in sunny Sheffield.
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/diggyhole-banner.jpg
-    caption: "Photo credit: [**SamuelTurner**](https://www.flickr.com/photos/samuel-turner)"
+layout: home
+title: Samuel Turner
+description: Howdo, I’m Samuel Turner. I’m a software tester and tech enthusiast from Derbyshire/Manchester but currently living and working in sunny Sheffield.
+background: /images/diggyhole-banner.jpg
 ---
-
-<h2>Follow me on&hellip;</h2>
-
-{% if site.author.links %}
-	<div class="grid__wrapper">
-		{% for link in site.author.links %}
-			{% if link.label and link.url %}
-				<div class="grid__item">
-					<a href="{{ link.url }}" class="btn btn--block">
-						<i class="fab fa-fw {{ link.icon | default: 'fas fa-link' }} fa-4x" aria-hidden="true"></i> {{ link.label }} 
-					</a>
-				</div>
-			{% endif %}
-		{% endfor %}
-	</div>
-{% endif %}
-
-<h2>Latest Posts</h2>
-<div class="grid__wrapper">
-  {% for post in site.posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>

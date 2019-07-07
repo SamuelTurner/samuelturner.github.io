@@ -1,18 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Simple Ruby script for minifying JavaScript"
 excerpt: "A simple ruby script I wrote for combining and minifying JavaScript files"
-comments: false
-author_profile: true
-categories:
-    - Ruby
-    - Development
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/ruby-banner.jpg
-    caption: "Photo credit: [**Anonymous**](http://instacod.es/60677)"
-    teaser: images/ruby-teaser.jpg
+background: /images/ruby-banner.jpg
 ---
 
 Recently I’ve been getting frustrated by overly complicated tools for

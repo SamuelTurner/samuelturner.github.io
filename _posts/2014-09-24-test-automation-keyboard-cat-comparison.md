@@ -1,17 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Test Automation = Keyboard Cat"
 excerpt: "Short comparison of test automation and keyboard cat"
-comments: false
-author_profile: true
-categories:
-    - Software Testing
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/keyboard-cat-banner.jpg
-    caption: "Photo credit: [**buddysier**](http://eng.hebus.com/image-311572.html)"
-    teaser: images/keyboard-cat-teaser.jpg
+background: /images/keyboard-cat-banner.jpg
 ---
 
 Firstly, please take this with a pinch of salt. I’m not being serious

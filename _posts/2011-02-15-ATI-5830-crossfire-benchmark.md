@@ -1,17 +1,8 @@
 ---
-layout: single
+layout: post
 title: "5830 Crossfire Benchmark"
 excerpt: "A quick benchmark of my overclocked ATI 5830 graphics cards in Crossfire."
-comments: false
-author_profile: true
-categories:
-    - Hardware
-    - Overclocking
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/rog-banner.jpg
-    teaser: images/rog-teaser.jpg
+background: /images/rog-banner.jpg
 ---
 
 I’ve just completed a kind of mini benchmark/review of my Crossfire ATI

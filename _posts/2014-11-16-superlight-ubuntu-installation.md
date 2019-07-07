@@ -1,18 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Superlight Ubuntu Installation"
 excerpt: "Starting with the mini.iso and building a lightweight desktop OS out of it"
-comments: false
-author_profile: true
-categories:
-    - Linux
-    - Development
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/ubuntu-banner.jpg
-    caption: "Photo credit: [**FreewallSource**](http://freewallsource.com/desktop-ubuntu-wallpaper-20344.html)"
-    teaser: images/ubuntu-teaser.jpg
+background: /images/ubuntu-banner.jpg
 ---
 
 I have spent the last couple of years distro-hopping and playing around

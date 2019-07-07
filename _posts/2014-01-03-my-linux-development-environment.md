@@ -1,18 +1,8 @@
 ---
-layout: single
+layout: post
 title: "My Linux Development Environment"
 excerpt: "How I tend to set up my development environment using Xubuntu"
-comments: false
-author_profile: true
-categories:
-    - Linux
-    - Development
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/xubuntu-banner.jpg
-    caption: "Photo credit: [**SapphireGD**](http://sapphiregd.com)"
-    teaser: images/xubuntu-teaser.jpg
+background: /images/xubuntu-banner.jpg
 ---
 
 I first wrote this post over a year ago when I was setting up my desktop

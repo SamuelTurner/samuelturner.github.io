@@ -1,18 +1,8 @@
 ---
-layout: single
+layout: post
 title: "My Linux Development Environment&hellip; Again"
 excerpt: "How I set up my development environment using Kubuntu"
-comments: false
-author_profile: true
-categories:
-    - Linux
-    - Development
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/kubuntu-17.04-banner.jpg
-    caption: "Photo credit: [**Kubuntu**](http://kubuntu.org)"
-    teaser: images/kubuntu-17.04-teaser.jpg
+background: /images/kubuntu-17.04-banner.jpg
 ---
 
 Introduction

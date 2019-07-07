@@ -1,17 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Fixing Bluetooth Headphone Sound Quality in Ubuntu 16.04"
 excerpt: "How to fix sound quality issues with bluetooth headphones in 16.04 LTS"
-comments: false
-author_profile: true
-categories:
-    - Linux
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /images/ubuntu-banner.jpg
-    caption: "Photo credit: [**Ubuntu**](https://www.ubuntu.com/)"
-    teaser: images/ubuntu-teaser.jpg
+background: /images/ubuntu-banner.jpg
 ---
 
 For as long as I've used 16.04 LTS in all flavours - I've had the same issue with my bluetooth headphones sounding terrible. This is due to an inability to select the A2DP profile for "High Fidelity Playback" and it defaulting back to the "Headset Head Unit".

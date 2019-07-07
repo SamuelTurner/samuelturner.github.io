@@ -1,17 +1,8 @@
 ---
-layout: single
+layout: post
 title: "Cross Browser Testing Reloaded"
 excerpt: "How can you perform cross device testing, when the most popular device only accounts for 5% of your traffic?"
-comments: false
-author_profile: true
-categories:
-    - Software 
-    - Testing
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.6"
-    overlay_image: /images/browsersync-sizzy-banner.jpg
-    teaser: images/browsersync-sizzy-teaser.jpg
+background: /images/browsersync-sizzy-banner.jpg
 ---
 
 We've had a big problem at [U Account][uaccount] for a while now. Our analytics tell us that over 70% of our traffic is mobile, but that traffic is distributed across over 400 devices, with the most popular device only accounting for 5% of that traffic. This leaves us at a bit of a loss as to how we can possibly support that many devices, and how to choose which ones we should support!
