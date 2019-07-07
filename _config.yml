@@ -1,4 +1,4 @@
-theme: "jekyll-theme-clean-blog"
+remote_theme: "jekyll-theme-clean-blog"
 title: Samuel Turner
 #email: your-email@example.com
 description: Software Testing. Linux. Gaming. Overclocking.
