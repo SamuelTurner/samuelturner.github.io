@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: single
 title: About Me
+comments: false
+permalink: /about/
+author_profile: true
 ---
 
 Howdo, I'm Samuel Turner. I'm a software tester and tech enthusiast from Derbyshire/Manchester but currently living and working in sunny Sheffield.

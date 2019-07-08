@@ -1,8 +1,21 @@
 ---
-layout: post
+layout: single
 title: "Diggy Hole - A watercooled, overclocked, ITX, 4.2ghz Minecraft server!"
 excerpt: "My take on the ultimate local Minecraft server. Watercooled, overclocked and built with large redstone circuits in mind."
-background: /images/diggyhole-banner.jpg
+categories:
+    - Hardware
+    - Overclocking
+    - Servers
+    - Minecraft
+    - Linux
+comments: false
+author_profile: true
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /images/diggyhole-banner.jpg
+    caption: "Photo credit: [**SamuelTurner**](https://www.flickr.com/photos/samuel-turner)"
+    teaser: images/diggyhole-teaser.jpg
 ---
 
 I recently found I was having a problem with my current home server, in that the Minecraft Server application was struggling massively because I build a lot of large redstone machines. Minecraft Server runs the the main world engine thingy in a single thread, which means that it needed a big increase in single thread performance. Not something the 45w AMD Athlon X4 615E in my file server can provide, So I decided to build a separate box just for Minecraft Server.

@@ -1,7 +1,0 @@
----
-layout: page
-title: "Tech Photos"
----
-
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/samuel-turner/albums/72157657149328673" title="Tech"><img src="https://c6.staticflickr.com/1/653/21948744405_00a005615f_b.jpg" width="730" alt="Tech"></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

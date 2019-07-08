@@ -1,8 +1,17 @@
 ---
-layout: post
+layout: single
 title: "Not all bugs are defects"
 excerpt: "Often testers find issues with software that are not defects, but still don't feel right... so are they bugs?"
-background: /images/software-testing-banner.jpg
+comments: false
+author_profile: true
+categories:
+    - Software
+    - Testing
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /images/software-testing-banner.jpg
+    teaser: images/software-testing-teaser.jpg
 ---
 
 As software testers we often come across aspects of a piece of software that might not necessarily be defects, but they still don't feel right. It may be an intended feature that sounded great on paper &mdash; or in the mind of the stakeholder writing the requirement &mdash; but now we're testing it in context, it feels like a bug.

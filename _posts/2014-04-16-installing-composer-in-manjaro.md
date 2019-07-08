@@ -1,8 +1,18 @@
 ---
-layout: post
+layout: single
 title: "Installing Composer in Manjaro"
 excerpt: "Short guide on installing composer in Manjaro"
-background: /images/manjaro-banner.jpg
+comments: false
+author_profile: true
+categories:
+    - Linux
+    - Development
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /images/manjaro-banner.jpg
+    caption: "Photo credit: [**Manjaro**](https://github.com/manjaro/artwork-wallpapers)"
+    teaser: images/manjaro-teaser.jpg
 ---
 
 I couldn’t find instructions anywhere for installing composer in
