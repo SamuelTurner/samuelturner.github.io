@@ -37,7 +37,7 @@ Not a "perfect" solution (is there such a thing?) &mdash; but it's working for u
 
 <figure>
 	<a href="/images/browsersync-sizzy-full.jpg">
-		<img src="/images/browsersync-sizzy-full.jpg" width="730px">
+		<img src="/images/browsersync-sizzy-full.jpg">
 	</a>
 </figure>
 
